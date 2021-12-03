@@ -34,3 +34,7 @@
 ![monitoring_metrics](https://user-images.githubusercontent.com/89623174/144609138-ae35f483-30e4-4413-890a-2053b270a4d4.png)
 
 --------------------------------------------------------------------------------------------------------------------------
+
+<br>Sandboxing the docker containers is one possible way to provide security.</br>
+We have tried our hands on writing sandbox file in https://github.com/KishoreKumar278/Tick_dockerization/blob/Tick_Dockerization/sandbox.bat
+</br>
